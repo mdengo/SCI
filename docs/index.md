@@ -1,6 +1,6 @@
 ## Welcome to my site
 
-# About me
+### About me
 
 I'm a second year computer science student and this is a page for a course I'm taking this spring - _Scientific Computing Infrastructures_. I hope to learn plenty of useful skills by the end of the schoolyear. 
 
